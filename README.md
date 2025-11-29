@@ -6,9 +6,9 @@ Grille de 1000x1000 lumières, indexées de 0 à 999 sur x et y, initialement to
 
 **Partie 1 :**
 
-"turn on" met les lumières à vrai (allumées).
-"turn off" met à faux (éteintes).
-"toggle" inverse l’état (on → off, off → on).
+- "turn on" met les lumières à vrai (allumées).
+- "turn off" met à faux (éteintes).
+- "toggle" inverse l’état (on → off, off → on).
 
 **Partie 2 :**
 
